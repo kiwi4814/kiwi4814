@@ -1,4 +1,25 @@
-### Hi there 👋
+## Hey 👋, This is  ✨ kiwi4814 ✨ 
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=kiwi4814&show_icons=true&include_all_commits=true)](https://github.com/kiwi4814/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)](https://github.com/kiwi4814/github-readme-stats)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kiwi4814&repo=kiwi4814)
+
+
+
+<!--
+**Ryyyc/ryyyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!--
 **kiwi4814/kiwi4814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
