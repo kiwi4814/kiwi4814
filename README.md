@@ -1,8 +1,6 @@
 ## Hey 👋, This is  ✨ kiwi4814 ✨ 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=kiwi4814&show_icons=true&include_all_commits=true)](https://github.com/kiwi4814/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)](https://github.com/kiwi4814/github-readme-stats)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kiwi4814&repo=kiwi4814)
+[![kiwi4814's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiwi4814&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
